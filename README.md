@@ -9,7 +9,8 @@ https://docs.google.com/spreadsheets/d/1igcY_F8LnVMs_9C1wqlkarZTEQklEwUJiY7_bqxj
 ## Case Of Clay Pots
 All text data for Case of Clay Pots:
 https://docs.google.com/spreadsheets/d/1cgTx2iEVXdIh7QeppYlsi1eNhUWJOk3idwbmhtHnOuQ/edit#gid=0
-Audio recordings: [audio/README.md](audio/README.md)
+### Audio recordings 
+See [audio/README.md](audio/README.md)
 
 ### Images
 Images created for the case by Ilya Platonov

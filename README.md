@@ -4,11 +4,11 @@ This repository contains data Case of Clay Pots for [Sherlock Mysteries Action](
 
 ## Base Case Data
 Contains base data required to run any case:
-https://docs.google.com/spreadsheets/d/1igcY_F8LnVMs_9C1wqlkarZTEQklEwUJiY7_bqxj0Pw/edit#gid=1160204254
+https://docs.google.com/spreadsheets/d/1e8M5k9QGR1ZpEHoY9QR50PSG9NNV1uD_KY0KuyvzVaM/edit
 
 ## Case Of Clay Pots
 All text data for Case of Clay Pots:
-https://docs.google.com/spreadsheets/d/1cgTx2iEVXdIh7QeppYlsi1eNhUWJOk3idwbmhtHnOuQ/edit#gid=0
+https://docs.google.com/spreadsheets/d/1PoCRaihq6fm9NbdtZnEbRS28RodQD_vEbwMKgIMg2h0/edit
 ### Audio recordings 
 See [audio/README.md](audio/README.md)
 

@@ -27,3 +27,8 @@ Creative Commons Attribution 4.0 International  (https://creativecommons.org/lic
 * [Sherlock Holmes House(Case Introduction)](https://storage.googleapis.com/mystery-engine-voices/audio/claypots/caseintroduction.mp3)
 * [Evening at Sherlock Holmes House(Final Solution)](https://storage.googleapis.com/mystery-engine-voices/audio/claypots/finalsolution.mp3)
 * [London Bridge Crime Scene](https://storage.googleapis.com/mystery-engine-voices/audio/claypots/london%20bridge.mp3)
+* [Brois and Joan Bellinger House](https://storage.googleapis.com/mystery-engine-voices/audio/clay-pots/36%20goswell%20road.mp3)
+* [Jane Rose House](https://storage.googleapis.com/mystery-engine-voices/audio/clay-pots/4%20leadenhall%20street.mp3)
+* [Mayflower Apartment](https://storage.googleapis.com/mystery-engine-voices/audio/clay-pots/40b%20seymour%20street.mp3)
+* [Tony Scott House](https://storage.googleapis.com/mystery-engine-voices/audio/clay-pots/42%20southwark%20street.mp3)
+* [West Indies Shipping Company](https://storage.googleapis.com/mystery-engine-voices/audio/clay-pots/65%20leadenhall%20street.mp3)

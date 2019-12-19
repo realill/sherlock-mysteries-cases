@@ -6,6 +6,13 @@ This repository contains data Case of Clay Pots for [Sherlock Mysteries Action](
 Contains base data required to run any case:
 https://docs.google.com/spreadsheets/d/1e8M5k9QGR1ZpEHoY9QR50PSG9NNV1uD_KY0KuyvzVaM/edit
 
+## The Man Who Died Twice
+Main story text:
+https://docs.google.com/document/d/1TZr0FuXMUH0FVog3AhY4isF7Fx-AQIckTW3lBnFjsJg/edit?usp=sharing
+
+Directory, Clues, Hints, etc:
+https://docs.google.com/spreadsheets/d/19RWz34UuYsNOM93LvWcU5_vpiufLO5r-mFWBYHTJ7Ak/edit#gid=2109359228
+
 ## Case Of Clay Pots
 All text data:
 https://docs.google.com/spreadsheets/d/1PoCRaihq6fm9NbdtZnEbRS28RodQD_vEbwMKgIMg2h0/edit

@@ -1,6 +1,6 @@
 # Sherlock Mysteries Cases
 
-This repository contains data Case of Clay Pots for [Sherlock Mysteries Action](https://assistant.google.com/services/a/uid/000000b0ff87b6b1).
+This repository contains text and audio data for [Sherlock Mysteries Action](https://assistant.google.com/services/a/uid/000000b0ff87b6b1). Sherlock Mystries source code can be found at https://github.com/actions-on-google-labs/sherlock-mysteries-java.
 
 ## Base Case Data
 Contains base data required to run any case:
@@ -12,12 +12,14 @@ https://docs.google.com/document/d/1TZr0FuXMUH0FVog3AhY4isF7Fx-AQIckTW3lBnFjsJg/
 
 Directory, Clues, Hints, etc:
 https://docs.google.com/spreadsheets/d/19RWz34UuYsNOM93LvWcU5_vpiufLO5r-mFWBYHTJ7Ak/edit#gid=2109359228
+### Audio recordings 
+See [audio/README.md](audio/README.md#the-man-who-died-twice)
 
 ## Case Of Clay Pots
 All text data:
 https://docs.google.com/spreadsheets/d/1PoCRaihq6fm9NbdtZnEbRS28RodQD_vEbwMKgIMg2h0/edit
 ### Audio recordings 
-See [audio/README.md](audio/README.md)
+See [audio/README.md](audio/README.md#case-of-clay-pots-audio)
 
 ### Images
 Images created for the case by Ilya Platonov
@@ -36,6 +38,9 @@ Various images, which are used by the case but not part of this repository (vari
 ## Murder Behind Closed Doors
 All text data:
 https://docs.google.com/spreadsheets/d/1XsgpCBfPV0snIN5glFo89_NFdxHb-uKNoNMSMI025uM/edit
+
+### Audio recordings 
+See [audio/README.md](audio/README.md#murder-behind-closed-doors)
 
 ### Images
 Images created for the case by Ilya Platonov
